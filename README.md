@@ -5,7 +5,7 @@
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/library.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/library)
 
 # 🖱️ Library
-Library app created on a web page made using a constructor during the Odin Project coursework with books stored locally on a array.
+Library app created on a web page made using a constructor during the Odin Project coursework with books stored locally in a array.
 
 -----
 # 💻 How to install 
