@@ -96,7 +96,6 @@ function createNewBook() {
             createLibrary()  
         }
     }
-  
 }
 
 function createLibrary() {
@@ -211,6 +210,6 @@ window.onload = () => {
     }else{ 
     library = JSON.parse(localStorage.getItem('library'))
     }
-    
+
   createLibrary()
 }
